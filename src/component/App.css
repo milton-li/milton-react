@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.social-links-container {
+  padding: 40px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.social-links-container a {
+  padding: 5px;
+}
